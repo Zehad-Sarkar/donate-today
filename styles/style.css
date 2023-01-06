@@ -94,3 +94,25 @@ body {
     margin: 0 auto;
     margin-bottom: 10px;
 }
+/* our donate plan */
+.donate-heading{
+    font-size: 42px;
+    font-weight: 600;
+    text-align: center;
+}
+.donate-para{
+    font-size: 18px;
+    font-weight: 400;
+    text-align: center;
+}
+.donate-category{
+    display: flex;
+    gap: 20px;
+    margin: 30px 110px;
+}
+.food{
+    margin-bottom: 20px;
+}
+/* .food-family{
+    margin-bottom: 20px;
+} */
